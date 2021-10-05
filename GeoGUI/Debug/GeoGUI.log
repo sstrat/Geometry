@@ -1,0 +1,208 @@
+﻿  GeoGUI.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\shader_s.h(45,40): warning C4101: 'e': unreferenced local variable
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\asusrog\source\repos\GeoGUI\Dependecies\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(71,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(79,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(91,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(107,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(133,28): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(145,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(146,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(148,42): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(167,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(173,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(176,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(184,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(195,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(214,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(230,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(231,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(232,63): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(233,53): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(235,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(236,63): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(299,12): warning C4101: 'd': unreferenced local variable
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(349,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(350,122): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(370,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(405,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(425,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(428,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(443,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(465,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(466,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(489,21): warning C4305: '=': truncation from 'unsigned __int64' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(491,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\compgeo.h(492,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(125,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(125,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(125,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(128,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(128,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(129,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(129,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(135,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(135,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(135,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(138,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(138,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(139,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(139,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(140,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(140,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(148,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(158,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(160,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(173,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(173,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(173,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(175,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(175,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(176,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(176,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(177,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(177,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(178,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(178,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(179,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(179,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(180,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(180,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(192,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(192,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(192,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(194,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(194,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(195,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(195,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(196,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(196,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(197,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(197,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(198,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(198,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(199,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(199,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(202,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(202,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(210,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(223,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(227,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(294,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(305,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(317,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(327,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(329,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(331,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(333,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(342,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(375,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(377,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(379,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(380,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(382,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(383,27): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(386,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(387,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(389,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(390,27): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(393,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(394,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(396,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(397,20): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(399,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(400,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(402,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(403,20): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(407,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(409,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(409,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(410,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(412,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(413,27): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(416,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(416,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(417,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(419,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(420,27): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(423,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(423,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(424,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(426,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(427,20): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(429,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(429,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(430,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(432,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(433,20): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(439,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(439,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(440,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(441,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(441,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(442,21): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(442,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(443,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(443,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(444,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(445,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(445,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(446,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(446,16): warning C4244: 'argument': conversion from 'const unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(452,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(454,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(455,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(455,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(455,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(456,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(457,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(461,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(462,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(480,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(481,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(481,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(481,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(482,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(483,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(487,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(488,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(491,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(491,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(505,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(516,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(526,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(527,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(535,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(544,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\ui.h(561,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(76,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(86,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(86,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(94,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(94,71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(102,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(102,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(165,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(299,15): warning C4244: 'initializing': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(299,37): warning C4244: 'initializing': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(351,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(360,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(412,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(412,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(414,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(421,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(421,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(428,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(428,183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(436,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(444,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(449,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\asusrog\source\repos\GeoGUI\GeoGUI\GeoGUI.cpp(459,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GeoGUI.vcxproj -> C:\Users\asusrog\source\repos\GeoGUI\Debug\GeoGUI.exe
