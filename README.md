@@ -23,3 +23,5 @@ Given a set of obstacles (2D shapes) and 2 checkpoints (start and finish doesn't
 ### Convex Hull
 Given a set of points, find the largest convex shape that includes all the points.
 ![alt text](https://github.com/sstrat/Geometry/blob/main/img/hull.png)
+## Video
+[![Watch the video](https://www.youtube.com/watch?v=6h9soK7A4mk>/0.jpg)](https://www.youtube.com/watch?v=6h9soK7A4mk)
