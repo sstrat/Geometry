@@ -1,3 +1,5 @@
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Wheelmap](https://img.shields.io/wheelmap/a/26699541)
 # Geometry
 Computational geometry GUI
 ## What is this project?
