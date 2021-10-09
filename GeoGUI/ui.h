@@ -327,7 +327,7 @@ vector<Button> makeButtons(int width, int height) {
     buttons[5].scale = 0.6;
     buttons[6].name = "distance";
     buttons[6].scale = 0.55;
-    buttons[7].name = "aria";
+    buttons[7].name = "area";
     buttons[7].scale = 0.7;
     buttons[8].name = "circle";
     buttons[8].scale = 0.7;
