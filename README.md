@@ -23,5 +23,22 @@ Given a set of obstacles (2D shapes) and 2 checkpoints (start and finish doesn't
 ### Convex Hull
 Given a set of points, find the largest convex shape that includes all the points.
 ![alt text](https://github.com/sstrat/Geometry/blob/main/img/hull.png)
+
+## Domain appartenance
+You have a set of points, and a convex shape. Find the points that are inside in this shape.
+![alt text](https://github.com/sstrat/Geometry/blob/main/img/domain.png)
+
+## Minumum distance between 2 two point in a given set
+Find the closest 2 points in a given set of points.
+![alt text](https://github.com/sstrat/Geometry/blob/main/img/distance.png)
+
+## Area of a convex shape
+Calculate area of a convex shape.
+![alt text](https://github.com/sstrat/Geometry/blob/main/img/area.png)
+
+## The inscribed circle of a triangle
+Find  The inscribed circle's center in a given triangle.
+![alt text](https://github.com/sstrat/Geometry/blob/main/img/circle.png)
+
 ## Video (How to use the app)
 [![Watch the video](https://img.youtube.com/vi/6h9soK7A4mk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6h9soK7A4mk)
