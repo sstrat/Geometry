@@ -3,7 +3,7 @@
 # Geometry
 Computational geometry GUI
 ## What is this project?
-This project is an GUI (Graphical User Interface) for some of computational gemetry algorithms. It's coded in C++ and for the graphical part I used opengl 3.0 libraries (GLFW AND GLEW).
+This project is a GUI (Graphical User Interface) for some of computational gemetry algorithms. It's coded in C++ and for the graphical part I used opengl 3.0 libraries (GLFW AND GLEW).
 ## Algorithms
 - Dijkstra algorithm for Euclidean Shortest Path
 - Convex hull
@@ -23,3 +23,5 @@ Given a set of obstacles (2D shapes) and 2 checkpoints (start and finish doesn't
 ### Convex Hull
 Given a set of points, find the largest convex shape that includes all the points.
 ![alt text](https://github.com/sstrat/Geometry/blob/main/img/hull.png)
+## Video (How to use the app)
+[![Watch the video](https://img.youtube.com/vi/6h9soK7A4mk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6h9soK7A4mk)
