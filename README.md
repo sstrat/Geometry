@@ -13,7 +13,7 @@ This project is a GUI (Graphical User Interface) for some of computational gemet
 - The inscribed circle of a triangle
 ## Installation
 Clone the project using git clone, or just download the archive and unzip. 
-To run this aplication just click on GeoGUI.exe from Geometry/GeoGUI folder or you can open this project in Visual Studio and run it.
+To run this application just click on GeoGUI.exe from Geometry/GeoGUI folder or you can open this project in Visual Studio and run it.
 ## Video (How to use the app)
 [![Watch the video](https://img.youtube.com/vi/6h9soK7A4mk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6h9soK7A4mk)
 ## Preview
