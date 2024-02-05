@@ -3,7 +3,7 @@
 # Geometry
 Computational geometry GUI
 ## What is this project?
-This project is a GUI (Graphical User Interface) for some of computational gemetry algorithms. It's coded in C++ and for the graphical part I used opengl 3.0 libraries (GLFW AND GLEW).
+This project is a GUI (Graphical User Interface) for some of computational geometry algorithms. It's coded in C++ and for the graphical part I used opengl 3.0 libraries (GLFW AND GLEW).
 ## Algorithms
 - Dijkstra algorithm for Euclidean Shortest Path
 - Convex hull
